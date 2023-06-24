@@ -13,13 +13,9 @@ By leveraging this dataset, the dashboard enables thorough analysis and reportin
 various dimensions such as time, product category, payment method, customer demographics, and more.
 
 
-![Age-Wise Sales Analysis](https://github.com/megha-vishwakarma/customer-analysis/assets/70430389/fc124a3e-e86a-4f65-8c50-cd4228493b35)
-![Gender-Wise Sales Analysis](https://github.com/megha-vishwakarma/customer-analysis/assets/70430389/e3c1894c-0200-41b9-bbb6-a26f49823225)
+
 ![db1 (1)](https://github.com/megha-vishwakarma/customer-analysis/assets/70430389/02c4f070-73ef-44f9-8fcf-51b744c1c7a5)
 ![db2](https://github.com/megha-vishwakarma/customer-analysis/assets/70430389/36e3eca5-c00f-42a9-8a54-1656399537b3)
-![Region-Wise Revenue Share (%)](https://github.com/megha-vishwakarma/customer-analysis/assets/70430389/aa47a1c9-0ed2-45d9-8ef8-904f2e69feaa)
-![Month-Wise Revenue](https://github.com/megha-vishwakarma/customer-analysis/assets/70430389/fc5ffe18-cef3-4248-8de2-55886d1e896b)
-![Revenue per State](https://github.com/megha-vishwakarma/customer-analysis/assets/70430389/1484e48a-6905-403b-8e70-48f0f018368d)
 
 data presented in this dashboard holds significant value due to its ability to provide a comprehensive 
 understanding of various aspects of customer behavior and sales performance. Firstly, the age-wise sales 
